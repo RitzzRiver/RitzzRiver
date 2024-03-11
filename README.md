@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Alex
+- 👋 Hi, I’m Ritzz
 - 👀 I’m interested in game development (specially indie games) and arts.
-- 🌱 I’m currently learning Software development, currently i'm on Analitics and documentation.
-- 📫 You can contact me on discord or twitter.
+https://ritzzriver.carrd.co/#
