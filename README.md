@@ -31,9 +31,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img height="40" src="https://img.icons8.com/nolan/64/clip-studio_2.png" alt="clip-studio_2"/>
+  <img height="40" src="https://img.icons8.com/nolan/64/clip-studio_2.png" alt="clip studio"/>
   <img width="12" />
-  <img height="40" src="https://img.icons8.com/fluency/48/adobe-photoshop.png" alt="adobe-photoshop"/>
+  <img height="40" src="https://img.icons8.com/fluency/48/adobe-photoshop.png" alt="adobe photoshop"/>
+  <img width="12" />
+  <img height="40" src="https://godotengine.org/assets/press/icon_color.svg" alt="godot engine"/>
   <img width="12" />
 </div>
 
