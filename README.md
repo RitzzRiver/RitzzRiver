@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Alex<br><br>Lv20 | Esp//eng | learning art (lazy af) | aspiring to artist and game dev</h3>
+<h3 align="left">Hi 👋! My name is Alex<br><br>Lv20 | Main frontend | Esp//eng | aspiring to game dev</h3>
 
 ###
 
