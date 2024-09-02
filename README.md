@@ -1,5 +1,5 @@
-<h3 align="left">Hi there! My name is Alex</h3>
-<h3 align="left">| Lv 20 | Main frontend | Esp//Eng | aspiring to game dev |</h3>
+<h3 align="left">Hi there! My name is Alex, better known as Ritzz</h3>
+<h3 align="left">| Lv 20 | Analysis and Software Development student | Main frontend | Esp//Eng | aspiring to game dev |</h3>
 
 ###
 
