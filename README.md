@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/00/3e/6f/003e6fb41c9eb71f6f0f3de1b8d42b53.jpg"  />
+<p align="right">idk what to put here lmao</p>
+<p align="right">spining pikachu 👍</p>
+<img align="right" height="150" src="https://i.imgflip.com/4367fq.gif"  />
 
 ###
 
