@@ -1,4 +1,4 @@
-<img src="/bg.jpg" alt="background">
+<img src="/bg.jpg" alt="background" width="1200" height=400>
 
 ###
 
