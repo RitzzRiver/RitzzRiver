@@ -12,8 +12,8 @@
 
 <p>🌱 I’m currently learning:</p>
 <ul>
-  <li> 🐘 PHP</li>
-  <li> 🐍 Python</li>
+  <li>Node js</li>
+  <li>express</li>
 </ul>
 
 ###
