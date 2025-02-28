@@ -1,4 +1,4 @@
-<img src="/bg.jpg" alt="background" width="1200" height=400>
+<img src="https://i.pinimg.com/736x/5b/85/ea/5b85ea0aa634d580c5398e414dab7c56.jpg" alt="background" width="1200" height=400>
 
 ###
 
@@ -6,7 +6,7 @@
 
 <h3 align="center">Hi there! :3</h3>
 <h3 align="center">I'm Alex, better known as Katto</h3>
-<h3 align="center">| Lv 20 | 🇨🇴 | Esp//Eng | Analysis and Software Development student | frontend developer | aspiring to game dev | </h3>
+<h3 align="center">| Lv 21 | 🇨🇴 | Esp//Eng | Analysis and Software Development student | frontend developer | aspiring to game dev | </h3>
 
 ###
 
