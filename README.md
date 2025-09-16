@@ -12,28 +12,28 @@
 <h2 align="center">Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,html,css,js,ts,md,mysql,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,md" />
   </a>
 </p>
 
 <h2 align="center">Frameworks & libraries</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=maven,vue,vite,tailwind,pinia,npm,nodejs,firebase,express,bootstrap,jest" />
+    <img src="https://skillicons.dev/icons?i=vue,vite,tailwind,pinia,npm,nodejs,firebase,express,bootstrap,jest" />
   </a>
 </p>
 
 <h2 align="center">IDEs</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,vscode,visualstudio,ps,idea,gamemakerstudio" />
+    <img src="https://skillicons.dev/icons?i=godot,vscode,visualstudio,ps,idea" />
   </a>
 </p>
 
 <h2 align="center">Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,vercel,ps,postman,obsidian,notion,git,figma,arch" />
+    <img src="https://skillicons.dev/icons?i=windows,ps,postman,obsidian,notion,git,figma,arch" />
   </a>
 </p>
 
