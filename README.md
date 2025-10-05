@@ -39,7 +39,7 @@
 
 <h2 align="center">My stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RitzzRiver&locale=en&hide_title=true&layout=donut&card_width=300&langs_count=5&theme=dracula&hide_border=true"  alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dracula&hide_border=true"  alt="languages graph"  />
 </div>
 
 <h2 align="center">My contact info:</h2>
